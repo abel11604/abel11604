@@ -1,1 +1,1 @@
-![Mi GIF](assets/hamsterBailando)
+![Mi GIF](assets/hamsterBailando.gif)
