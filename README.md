@@ -1,1 +1,1 @@
-  [![Spotify](https://spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/6mgxc75tu3489b6j6og79lrsm) <img src="assets/hamsterBailando.gif" alt="Hamster Bailando" width="200" height="200">
+<img src="assets/hamsterBailando.gif" alt="Hamster Bailando" width="200" height="200">
