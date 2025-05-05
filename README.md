@@ -6,6 +6,7 @@ I'm currently a software engineering student at <a href="https://www.itson.mx/" 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abelcorona.quintero@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abel_corona06/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-corona-5085ab360/)
 
 ## 💻 Technologies
 
@@ -20,7 +21,6 @@ I'm currently a software engineering student at <a href="https://www.itson.mx/" 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-
 ### Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
@@ -28,10 +28,13 @@ I'm currently a software engineering student at <a href="https://www.itson.mx/" 
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
 ## 📊 GitHub Stats:
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abel11604&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=abel11604&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel11604&layout=compact&hide_border=true&theme=dracula) |
 | - | - | - |
