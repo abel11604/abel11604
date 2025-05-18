@@ -46,9 +46,6 @@ I'm currently a software engineering student at <a href="https://www.itson.mx/" 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6mgxc75tu3489b6j6og79lrsm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify" >
 <img src="assets/hamsterBailando-unscreen.gif" alt="Hamster Bailando" width="100" height="100"> </h1>
 
-  <p align="center">
-      ¡Gracias por visitar mi perfil!<br>
-  <img src="https://komarev.com/ghpvc/?username=abel11604&label=Profile%20views&color=0e75b6&style=flat" alt="abel11604" />
-</p>
+
 
 </div>
